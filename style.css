@@ -1,0 +1,16 @@
+.plavaPozadina {
+	background-color: royalblue;
+}
+.cyanPozadina {
+	background-color: cyan;
+	color: blue;
+}
+.uLiniji {
+	display: inline-block;
+	font-size: 20px;
+	padding: 2px;
+}
+.centriranTekst {
+	text-align: center;
+	font-weight: bolder;
+}
